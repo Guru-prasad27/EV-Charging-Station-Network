@@ -284,11 +284,13 @@ A ready-to-import **Postman Collection** is included, with multiple sample paylo
 <img width="1087" height="936" alt="image" src="https://github.com/user-attachments/assets/33e611c4-8127-45f0-8484-0946a9c46ce3" />
 
 ### Booking Service
+<img width="1051" height="902" alt="image" src="https://github.com/user-attachments/assets/c9cf0be9-ce9c-4d12-a68f-3ebd7eb0a708" />
+
 <img width="1681" height="1020" alt="Screenshot 2026-07-22 092249" src="https://github.com/user-attachments/assets/fa53ec93-d9e7-4099-9aab-9650f9bd864b" />
 
-<img width="1681" height="1020" alt="Screenshot 2026-07-22 092249" src="https://github.com/user-attachments/assets/f032a6f9-bdd2-4659-8d74-3c59006b3a7e" />
-
 ### Charging Session Service
+<img width="1881" height="973" alt="Screenshot 2026-07-22 092321" src="https://github.com/user-attachments/assets/c5994c91-0332-4e78-a575-c66c0107cea1" />
+
 <img width="1776" height="1008" alt="Screenshot 2026-07-22 092335" src="https://github.com/user-attachments/assets/394fe6ec-b504-4a55-a597-5cf140417686" />
 
 ### Payment Service
