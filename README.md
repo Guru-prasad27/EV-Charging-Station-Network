@@ -284,6 +284,8 @@ A ready-to-import **Postman Collection** is included, with multiple sample paylo
 <img width="1087" height="936" alt="image" src="https://github.com/user-attachments/assets/33e611c4-8127-45f0-8484-0946a9c46ce3" />
 
 ### Booking Service
+<img width="1681" height="1020" alt="Screenshot 2026-07-22 092249" src="https://github.com/user-attachments/assets/fa53ec93-d9e7-4099-9aab-9650f9bd864b" />
+
 <img width="1681" height="1020" alt="Screenshot 2026-07-22 092249" src="https://github.com/user-attachments/assets/f032a6f9-bdd2-4659-8d74-3c59006b3a7e" />
 
 ### Charging Session Service
@@ -294,6 +296,8 @@ A ready-to-import **Postman Collection** is included, with multiple sample paylo
 
 ### H2 Console
 ### Charging Station Service
+<img width="1917" height="900" alt="Screenshot 2026-07-22 092438" src="https://github.com/user-attachments/assets/51048dc6-684a-48e1-b04b-733dfbe435fa" />
+
 <img width="1916" height="950" alt="Screenshot 2026-07-22 092454" src="https://github.com/user-attachments/assets/2c29fd6f-4f46-46e0-bb12-4950431ae9e1" />
 
 ### Booking Service
