@@ -1,0 +1,15 @@
+package com.greencharge.sessionservice.dto;
+
+import jakarta.validation.constraints.NotNull;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+public class StartSessionRequestDTO {
+
+    @NotNull(message = "Booking id is mandatory")
+    private Long bookingId;
+}

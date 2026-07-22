@@ -1,0 +1,30 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: api-gateway
+
+  cloud:
+    gateway:
+      routes:
+
+        - id: charging-station-service
+          uri: http://localhost:8081
+          predicates:
+            - Path=/stations/**
+
+        - id: booking-service
+          uri: http://localhost:8082
+          predicates:
+            - Path=/bookings/**
+
+        - id: charging-session-service
+          uri: http://localhost:8083
+          predicates:
+            - Path=/sessions/**
+
+        - id: payment-service
+          uri: http://localhost:8084
+          predicates:
+            - Path=/payments/**
