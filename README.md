@@ -278,32 +278,31 @@ A ready-to-import **Postman Collection** is included, with multiple sample paylo
 📄 postman-testing-guide.md
 ```
 ## Output
-# PostMan:
-# Charging Station Service
+### PostMan:
+### Charging Station Service
 <img width="1901" height="1017" alt="Screenshot 2026-07-22 092051" src="https://github.com/user-attachments/assets/f8a14608-4c46-4948-850e-f6623f7be5d1" />
 <img width="1087" height="936" alt="image" src="https://github.com/user-attachments/assets/33e611c4-8127-45f0-8484-0946a9c46ce3" />
 
-# Booking Service
+### Booking Service
 <img width="1681" height="1020" alt="Screenshot 2026-07-22 092249" src="https://github.com/user-attachments/assets/f032a6f9-bdd2-4659-8d74-3c59006b3a7e" />
 
-# Charging Session Service
+### Charging Session Service
 <img width="1776" height="1008" alt="Screenshot 2026-07-22 092335" src="https://github.com/user-attachments/assets/394fe6ec-b504-4a55-a597-5cf140417686" />
 
-# Payment Service
+### Payment Service
 <img width="1806" height="1006" alt="Screenshot 2026-07-22 092347" src="https://github.com/user-attachments/assets/0305d8f2-89fe-4fa1-a768-469c9f5cc61a" />
 
-# H2 Console
-
-# Charging Station Service
+### H2 Console
+### Charging Station Service
 <img width="1916" height="950" alt="Screenshot 2026-07-22 092454" src="https://github.com/user-attachments/assets/2c29fd6f-4f46-46e0-bb12-4950431ae9e1" />
 
-# Booking Service
+### Booking Service
 <img width="1917" height="895" alt="Screenshot 2026-07-22 092523" src="https://github.com/user-attachments/assets/4c80dab5-e962-4bfd-9d97-8866e2ec0fd6" />
 
-# Charging Session Service
+### Charging Session Service
 <img width="1917" height="855" alt="Screenshot 2026-07-22 092543" src="https://github.com/user-attachments/assets/a7aeb1ab-0df4-4f9e-8625-ae109f03631f" />
 
-# Payment Service
+### Payment Service
 <img width="1917" height="796" alt="Screenshot 2026-07-22 092606" src="https://github.com/user-attachments/assets/c9d78a69-4b02-4d70-92f9-81593962fab4" />
 
 
